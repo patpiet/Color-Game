@@ -1,6 +1,6 @@
 var numSquares= 6;
-var pickedColor = random();
 var colors = getRandomColors(numSquares);
+var pickedColor = random();
 var h1 = document.querySelector("h1");
 var squares = document.querySelectorAll(".square");
 var colorDisplay = document.querySelector("#colorDisplay");
