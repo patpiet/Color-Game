@@ -25,6 +25,7 @@ button{
     text-transform: uppercase;
     outline: none;
     transition: all 0.3s;
+}
 .square{
     width: 30%;
     background: purple;
@@ -53,7 +54,6 @@ button{
 }
 #colorDisplay{
     font-size: 200%;
-}
 }
 button:hover{
     background: steelblue;
